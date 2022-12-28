@@ -1,5 +1,5 @@
-import { Link, NavLink } from "react-router-dom";
-import web from '../src/hero-1.png';
+import { NavLink } from "react-router-dom";
+// import web from '../src/hero-1.png';
 import cta__2 from '../src/cta-2.png';
 
 const Home = () => {
